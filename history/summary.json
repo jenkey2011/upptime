@@ -1,8 +1,8 @@
 [
   {
     "name": "Google",
-    "url": "https://count.jenkey2011.xyz/badge?id=jenkey2011.count-rotbot",
-    "icon": "https://favicons.githubusercontent.com/count.jenkey2011.xyz",
+    "url": "https://lavender-buttery-moss.glitch.me/",
+    "icon": "https://favicons.githubusercontent.com/lavender-buttery-moss.glitch.me",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
