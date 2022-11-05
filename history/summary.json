@@ -4,7 +4,7 @@
     "url": "https://lavender-buttery-moss.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/lavender-buttery-moss.glitch.me.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 10975,
     "timeYear": 4920,
     "dailyMinutesDown": {
+      "2022-11-05": 0,
       "2022-10-25": 23,
       "2022-08-13": 72,
       "2022-08-12": 111,
